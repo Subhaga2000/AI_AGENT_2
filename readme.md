@@ -12,7 +12,7 @@ It keeps conversation history during the session and saves the full chat to a `l
 
 ### 1) Clone the repo
 ```bash
-git clone <https://github.com/Subhaga2000/ai_agent2.git>
+git clone <https://github.com/Subhaga2000/AI_AGENT_2.git>
 cd llm-chatbot
 ```
 
